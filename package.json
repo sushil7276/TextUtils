@@ -1,7 +1,7 @@
 {
   "homepage": "https://sushil7276.github.io/TextUtils",
   "name": "textutils",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
